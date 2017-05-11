@@ -108,6 +108,7 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Binaries\KeepMeBusy_v1_0_0_0.zip" />
     <None Include="LICENSE" />
     <None Include="README.md" />
     <None Include="Resources\Circle_Gray.ico" />
@@ -144,7 +145,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
-    <Content Include="Binaries\1_0_0_0\Keep Me Busy.exe" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
